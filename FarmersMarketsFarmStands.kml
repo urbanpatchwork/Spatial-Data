@@ -1,0 +1,4086 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Central Texas Farmers Markets and Farm Stands</name>
+		<description><![CDATA[Find a local farm stand or farmers market near you!]]></description>
+		<Folder>
+			<name>Farmers Markets and Stands</name>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Boggy Creek Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>3414 Lyons Road, Austin TX 78702</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.boggycreekfarm.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 3414 Lyons Road, Austin TX 78702
+Website: http://www.boggycreekfarm.com/
+Days: Thursday
+Times: 8am–1pm
+Phone # or email: ]]></description>
+				<address>3414 Lyons Road, Austin TX 78702</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Boggy Creek Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>3414 Lyons Road, Austin TX 78702</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.boggycreekfarm.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 3414 Lyons Road, Austin TX 78702
+Website: http://www.boggycreekfarm.com/
+Days: Friday
+Times: 8am–1pm
+Phone # or email: ]]></description>
+				<address>3414 Lyons Road, Austin TX 78702</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Wolf Ranch Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1015 W University Ave, Georgetown, TX 78628</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.wolfranchfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am—1 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1015 W University Ave, Georgetown, TX 78628
+Website: http://www.wolfranchfarmersmarket.com/
+Days: Saturday
+Times: 9 am—1 pm
+Phone # or email: ]]></description>
+				<address>1015 W University Ave, Georgetown, TX 78628</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Harker Heights Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>850 W Central Texas Expy, Harker Heights, TX 76548</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.ci.harker-heights.tx.us/index.php/programs-a-events/farmers-market</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am—12 pm, May—October only</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 850 W Central Texas Expy, Harker Heights, TX 76548
+Website: http://www.ci.harker-heights.tx.us/index.php/programs-a-events/farmers-market
+Days: Saturday
+Times: 8 am—12 pm, May—October only
+Phone # or email: ]]></description>
+				<address>850 W Central Texas Expy, Harker Heights, TX 76548</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Cibolo Grange Farmers and Artisans Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>413 N. Main Street, Cibolo, TX 78108</value>
+					</Data>
+					<Data name='Website'>
+						<value>https://www.facebook.com/events/1403612169907562/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>2 p.m.—6 p.m.</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 413 N. Main Street, Cibolo, TX 78108
+Website: https://www.facebook.com/events/1403612169907562/
+Days: Thursday
+Times: 2 p.m.—6 p.m.
+Phone # or email: ]]></description>
+				<address>413 N. Main Street, Cibolo, TX 78108</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Aronsky Family Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>13977 Farm Road 2325
+Blanco, TX 78606</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texascolor.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-5428</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 13977 Farm Road 2325
+Blanco, TX 78606
+Website: http://www.texascolor.com/
+Days: Saturday
+Times: 9 am - 5 pm
+Phone # or email: 830-833-5428]]></description>
+				<address>13977 Farm Road 2325
+Blanco, TX 78606</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Behrends Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4579 US 290, Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/behrends/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-4420</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 4579 US 290, Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/behrends/Default.htm
+Days: Sunday
+Times: 8 am - 6 pm
+Phone # or email: 830-997-4420]]></description>
+				<address>4579 US 290, Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Behrends Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4579 US 290, Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/behrends/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-4420</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 4579 US 290, Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/behrends/Default.htm
+Days: Monday
+Times: 8 am - 6 pm
+Phone # or email: 830-997-4420]]></description>
+				<address>4579 US 290, Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Behrends Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4579 US 290, Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/behrends/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-4420</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 4579 US 290, Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/behrends/Default.htm
+Days: Tuesday
+Times: 8 am - 6 pm
+Phone # or email: 830-997-4420]]></description>
+				<address>4579 US 290, Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Behrends Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4579 US 290, Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/behrends/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-4420</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 4579 US 290, Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/behrends/Default.htm
+Days: Wednesday
+Times: 8 am - 6 pm
+Phone # or email: 830-997-4420]]></description>
+				<address>4579 US 290, Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Behrends Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4579 US 290, Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/behrends/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-4420</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 4579 US 290, Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/behrends/Default.htm
+Days: Thursday
+Times: 8 am - 6 pm
+Phone # or email: 830-997-4420]]></description>
+				<address>4579 US 290, Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Behrends Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4579 US 290, Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/behrends/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-4420</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 4579 US 290, Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/behrends/Default.htm
+Days: Friday
+Times: 8 am - 6 pm
+Phone # or email: 830-997-4420]]></description>
+				<address>4579 US 290, Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Behrends Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4579 US 290, Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/behrends/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-4420</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 4579 US 290, Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/behrends/Default.htm
+Days: Saturday
+Times: 8 am - 6 pm
+Phone # or email: 830-997-4420]]></description>
+				<address>4579 US 290, Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Boggy Creek Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>3414 Lyons Road, Austin TX 78702</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.boggycreekfarm.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 1 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-926-4650</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 3414 Lyons Road, Austin TX 78702
+Website: http://www.boggycreekfarm.com/
+Days: Wednesday
+Times: 8 am - 1 pm
+Phone # or email: 512-926-4650]]></description>
+				<address>3414 Lyons Road, Austin TX 78702</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Boggy Creek Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>3414 Lyons Road, Austin TX 78702</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.boggycreekfarm.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 1 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-926-4650</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 3414 Lyons Road, Austin TX 78702
+Website: http://www.boggycreekfarm.com/
+Days: Saturday
+Times: 8 am - 1 pm
+Phone # or email: 512-926-4650]]></description>
+				<address>3414 Lyons Road, Austin TX 78702</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Burg's Corner</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>15194 U.S. 290, Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.burgscorner.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>1-800-694-2772</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 15194 U.S. 290, Stonewall, TX 78671
+Website: http://www.burgscorner.com/
+Days: Sunday
+Times: 8:30 am - 7 pm
+Phone # or email: 1-800-694-2772]]></description>
+				<address>15194 U.S. 290, Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Burg's Corner</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>15194 U.S. 290, Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.burgscorner.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>1-800-694-2772</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 15194 U.S. 290, Stonewall, TX 78671
+Website: http://www.burgscorner.com/
+Days: Monday
+Times: 8:30 am - 7 pm
+Phone # or email: 1-800-694-2772]]></description>
+				<address>15194 U.S. 290, Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Burg's Corner</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>15194 U.S. 290, Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.burgscorner.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>1-800-694-2772</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 15194 U.S. 290, Stonewall, TX 78671
+Website: http://www.burgscorner.com/
+Days: Tuesday
+Times: 8:30 am - 7 pm
+Phone # or email: 1-800-694-2772]]></description>
+				<address>15194 U.S. 290, Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Burg's Corner</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>15194 U.S. 290, Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.burgscorner.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>1-800-694-2772</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 15194 U.S. 290, Stonewall, TX 78671
+Website: http://www.burgscorner.com/
+Days: Wednesday
+Times: 8:30 am - 7 pm
+Phone # or email: 1-800-694-2772]]></description>
+				<address>15194 U.S. 290, Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Burg's Corner</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>15194 U.S. 290, Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.burgscorner.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>1-800-694-2772</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 15194 U.S. 290, Stonewall, TX 78671
+Website: http://www.burgscorner.com/
+Days: Thursday
+Times: 8:30 am - 7 pm
+Phone # or email: 1-800-694-2772]]></description>
+				<address>15194 U.S. 290, Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Burg's Corner</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>15194 U.S. 290, Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.burgscorner.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>1-800-694-2772</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 15194 U.S. 290, Stonewall, TX 78671
+Website: http://www.burgscorner.com/
+Days: Friday
+Times: 8:30 am - 7 pm
+Phone # or email: 1-800-694-2772]]></description>
+				<address>15194 U.S. 290, Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Burg's Corner</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>15194 U.S. 290, Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.burgscorner.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>1-800-694-2772</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 15194 U.S. 290, Stonewall, TX 78671
+Website: http://www.burgscorner.com/
+Days: Saturday
+Times: 8:30 am - 7 pm
+Phone # or email: 1-800-694-2772]]></description>
+				<address>15194 U.S. 290, Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Crenwelge Peaches</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>617 W. Main St., Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/crenwelge/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (during peach season)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-889-7878</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 617 W. Main St., Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/crenwelge/Default.htm
+Days: Sunday
+Times: 9 am - 5 pm (during peach season)
+Phone # or email: 830-889-7878]]></description>
+				<address>617 W. Main St., Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Crenwelge Peaches</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>617 W. Main St., Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/crenwelge/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (during peach season)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-889-7878</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 617 W. Main St., Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/crenwelge/Default.htm
+Days: Monday
+Times: 9 am - 5 pm (during peach season)
+Phone # or email: 830-889-7878]]></description>
+				<address>617 W. Main St., Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Crenwelge Peaches</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>617 W. Main St., Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/crenwelge/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (during peach season)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-889-7878</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 617 W. Main St., Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/crenwelge/Default.htm
+Days: Tuesday
+Times: 9 am - 5 pm (during peach season)
+Phone # or email: 830-889-7878]]></description>
+				<address>617 W. Main St., Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Crenwelge Peaches</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>617 W. Main St., Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/crenwelge/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (during peach season)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-889-7878</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 617 W. Main St., Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/crenwelge/Default.htm
+Days: Wednesday
+Times: 9 am - 5 pm (during peach season)
+Phone # or email: 830-889-7878]]></description>
+				<address>617 W. Main St., Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Crenwelge Peaches</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>617 W. Main St., Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/crenwelge/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (during peach season)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-889-7878</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 617 W. Main St., Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/crenwelge/Default.htm
+Days: Thursday
+Times: 9 am - 5 pm (during peach season)
+Phone # or email: 830-889-7878]]></description>
+				<address>617 W. Main St., Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Crenwelge Peaches</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>617 W. Main St., Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/crenwelge/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (during peach season)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-889-7878</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 617 W. Main St., Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/crenwelge/Default.htm
+Days: Friday
+Times: 9 am - 5 pm (during peach season)
+Phone # or email: 830-889-7878]]></description>
+				<address>617 W. Main St., Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Crenwelge Peaches</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>617 W. Main St., Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/crenwelge/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (during peach season)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-889-7878</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 617 W. Main St., Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/crenwelge/Default.htm
+Days: Saturday
+Times: 9 am - 5 pm (during peach season)
+Phone # or email: 830-889-7878]]></description>
+				<address>617 W. Main St., Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Das Peach House</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1406 U.S. 87 Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://daspeachhaus.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 5 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>866-997-8969</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1406 U.S. 87 Fredericksburg, TX 78624
+Website: http://daspeachhaus.com/
+Days: Sunday
+Times: 10 am - 5 pm
+Phone # or email: 866-997-8969]]></description>
+				<address>1406 U.S. 87 Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Das Peach House</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1406 U.S. 87 Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://daspeachhaus.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 5 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>866-997-8969</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1406 U.S. 87 Fredericksburg, TX 78624
+Website: http://daspeachhaus.com/
+Days: Monday
+Times: 10 am - 5 pm
+Phone # or email: 866-997-8969]]></description>
+				<address>1406 U.S. 87 Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Das Peach House</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1406 U.S. 87 Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://daspeachhaus.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 5 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>866-997-8969</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1406 U.S. 87 Fredericksburg, TX 78624
+Website: http://daspeachhaus.com/
+Days: Thursday
+Times: 10 am - 5 pm
+Phone # or email: 866-997-8969]]></description>
+				<address>1406 U.S. 87 Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Das Peach House</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1406 U.S. 87 Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://daspeachhaus.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 5 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>866-997-8969</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1406 U.S. 87 Fredericksburg, TX 78624
+Website: http://daspeachhaus.com/
+Days: Friday
+Times: 10 am - 5 pm
+Phone # or email: 866-997-8969]]></description>
+				<address>1406 U.S. 87 Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Das Peach House</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1406 U.S. 87 Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://daspeachhaus.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 5 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>866-997-8969</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1406 U.S. 87 Fredericksburg, TX 78624
+Website: http://daspeachhaus.com/
+Days: Saturday
+Times: 10 am - 5 pm
+Phone # or email: 866-997-8969]]></description>
+				<address>1406 U.S. 87 Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Engel's Fresh Fruits and Vegetables</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.073848,-98.411064</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/engels/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9:30 am - 6:30 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-4486</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.073848,-98.411064
+Website: http://www.texaspeaches.com/engels/Default.htm
+Days: Sunday
+Times: 9:30 am - 6:30 pm
+Phone # or email: 830-833-4486]]></description>
+				<address>30.073848,-98.411064</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Engel's Fresh Fruits and Vegetables</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.073848,-98.411064</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/engels/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9:30 am - 6:30 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-4486</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.073848,-98.411064
+Website: http://www.texaspeaches.com/engels/Default.htm
+Days: Monday
+Times: 9:30 am - 6:30 pm
+Phone # or email: 830-833-4486]]></description>
+				<address>30.073848,-98.411064</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Engel's Fresh Fruits and Vegetables</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.073848,-98.411064</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/engels/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9:30 am - 6:30 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-4486</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.073848,-98.411064
+Website: http://www.texaspeaches.com/engels/Default.htm
+Days: Tuesday
+Times: 9:30 am - 6:30 pm
+Phone # or email: 830-833-4486]]></description>
+				<address>30.073848,-98.411064</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Engel's Fresh Fruits and Vegetables</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.073848,-98.411064</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/engels/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9:30 am - 6:30 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-4486</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.073848,-98.411064
+Website: http://www.texaspeaches.com/engels/Default.htm
+Days: Wednesday
+Times: 9:30 am - 6:30 pm
+Phone # or email: 830-833-4486]]></description>
+				<address>30.073848,-98.411064</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Engel's Fresh Fruits and Vegetables</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.073848,-98.411064</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/engels/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9:30 am - 6:30 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-4486</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.073848,-98.411064
+Website: http://www.texaspeaches.com/engels/Default.htm
+Days: Thursday
+Times: 9:30 am - 6:30 pm
+Phone # or email: 830-833-4486]]></description>
+				<address>30.073848,-98.411064</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Engel's Fresh Fruits and Vegetables</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.073848,-98.411064</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/engels/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9:30 am - 6:30 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-4486</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.073848,-98.411064
+Website: http://www.texaspeaches.com/engels/Default.htm
+Days: Friday
+Times: 9:30 am - 6:30 pm
+Phone # or email: 830-833-4486]]></description>
+				<address>30.073848,-98.411064</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Engel's Fresh Fruits and Vegetables</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.073848,-98.411064</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/engels/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9:30 am - 6:30 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-4486</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.073848,-98.411064
+Website: http://www.texaspeaches.com/engels/Default.htm
+Days: Saturday
+Times: 9:30 am - 6:30 pm
+Phone # or email: 830-833-4486]]></description>
+				<address>30.073848,-98.411064</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Green Gate Farm Farm Stand and U-Pick</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>8310 Canoga Ave Austin, TX 78724</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://greengatefarms.net/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3 - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-484-2746</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 8310 Canoga Ave Austin, TX 78724
+Website: http://greengatefarms.net/
+Days: Tuesday
+Times: 3 - 6 pm
+Phone # or email: 512-484-2746]]></description>
+				<address>8310 Canoga Ave Austin, TX 78724</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Green Gate Farm Farm Stand and U-Pick</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>8310 Canoga Ave Austin, TX 78724</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://greengatefarms.net/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 2 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-484-2746</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 8310 Canoga Ave Austin, TX 78724
+Website: http://greengatefarms.net/
+Days: Friday
+Times: 10 am - 2 pm
+Phone # or email: 512-484-2746]]></description>
+				<Point>
+					<coordinates>-97.6357857159386,30.284917609066298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Green Gate Farm Farm Stand and U-Pick</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>8310 Canoga Ave Austin, TX 78724</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://greengatefarms.net/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 2 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-484-2746</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 8310 Canoga Ave Austin, TX 78724
+Website: http://greengatefarms.net/
+Days: Saturday
+Times: 10 am - 2 pm
+Phone # or email: 512-484-2746]]></description>
+				<Point>
+					<coordinates>-97.63582594907382,30.28493845453524,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Gold Orchards</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>14329 U.S. 290 Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/gold/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 6 pm (summer through mid-december)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-644-2890</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 14329 U.S. 290 Stonewall, TX 78671
+Website: http://www.texaspeaches.com/gold/Default.htm
+Days: Thursday
+Times: 9 am - 6 pm (summer through mid-december)
+Phone # or email: 830-644-2890]]></description>
+				<address>14329 U.S. 290 Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Gold Orchards</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>14329 U.S. 290 Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/gold/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 6 pm (summer through mid-december)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-644-2890</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 14329 U.S. 290 Stonewall, TX 78671
+Website: http://www.texaspeaches.com/gold/Default.htm
+Days: Friday
+Times: 9 am - 6 pm (summer through mid-december)
+Phone # or email: 830-644-2890]]></description>
+				<address>14329 U.S. 290 Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Gold Orchards</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>14329 U.S. 290 Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/gold/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 6 pm (summer through mid-december)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-644-2890</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 14329 U.S. 290 Stonewall, TX 78671
+Website: http://www.texaspeaches.com/gold/Default.htm
+Days: Saturday
+Times: 9 am - 6 pm (summer through mid-december)
+Phone # or email: 830-644-2890]]></description>
+				<address>14329 U.S. 290 Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Gold Orchards</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>14329 U.S. 290 Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/gold/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 6 pm (summer through mid-december)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-644-2890</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 14329 U.S. 290 Stonewall, TX 78671
+Website: http://www.texaspeaches.com/gold/Default.htm
+Days: Sunday
+Times: 9 am - 6 pm (summer through mid-december)
+Phone # or email: 830-644-2890]]></description>
+				<address>14329 U.S. 290 Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Gold Orchards</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>14329 U.S. 290 Stonewall, TX 78671</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/gold/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 6 pm (summer through mid-december)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-644-2890</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 14329 U.S. 290 Stonewall, TX 78671
+Website: http://www.texaspeaches.com/gold/Default.htm
+Days: Monday
+Times: 9 am - 6 pm (summer through mid-december)
+Phone # or email: 830-644-2890]]></description>
+				<address>14329 U.S. 290 Stonewall, TX 78671</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Harvest Time Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>21910 Fm 306 Canyon Lake, TX 78133</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.localharvest.org/harvest-time-farm-stand-M38822</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 12 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-935-3159</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 21910 Fm 306 Canyon Lake, TX 78133
+Website: http://www.localharvest.org/harvest-time-farm-stand-M38822
+Days: Saturday
+Times: 9 am - 12 pm
+Phone # or email: 830-935-3159]]></description>
+				<address>21910 Fm 306 Canyon Lake, TX 78133</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Hope Farm Stand</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>412 Comal St Austin, TX 78702</value>
+					</Data>
+					<Data name='Website'>
+						<value>https://www.facebook.com/pages/HOPE-Farm-Stand/312362682188320</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>11 am - 3 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>heather@hopecampaign.org</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 412 Comal St Austin, TX 78702
+Website: https://www.facebook.com/pages/HOPE-Farm-Stand/312362682188320
+Days: Sunday
+Times: 11 am - 3 pm
+Phone # or email: heather@hopecampaign.org]]></description>
+				<address>412 Comal St Austin, TX 78702</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>My Father's Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1722 Steffens Seguin, TX 78155 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://myfathersfarm.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>7 am - 2 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-822-0200</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1722 Steffens Seguin, TX 78155 ‎
+Website: http://myfathersfarm.org/
+Days: Monday
+Times: 7 am - 2 pm
+Phone # or email: 830-822-0200]]></description>
+				<address>1722 Steffens Seguin, TX 78155 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>My Father's Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1722 Steffens Seguin, TX 78155 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://myfathersfarm.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>7 am - 2 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-822-0200</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1722 Steffens Seguin, TX 78155 ‎
+Website: http://myfathersfarm.org/
+Days: Tuesday
+Times: 7 am - 2 pm
+Phone # or email: 830-822-0200]]></description>
+				<address>1722 Steffens Seguin, TX 78155 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>My Father's Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1722 Steffens Seguin, TX 78155 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://myfathersfarm.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>7 am - 2 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-822-0200</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1722 Steffens Seguin, TX 78155 ‎
+Website: http://myfathersfarm.org/
+Days: Wednesday
+Times: 7 am - 2 pm
+Phone # or email: 830-822-0200]]></description>
+				<address>1722 Steffens Seguin, TX 78155 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>My Father's Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1722 Steffens Seguin, TX 78155 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://myfathersfarm.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>7 am - 2 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-822-0200</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1722 Steffens Seguin, TX 78155 ‎
+Website: http://myfathersfarm.org/
+Days: Thursday
+Times: 7 am - 2 pm
+Phone # or email: 830-822-0200]]></description>
+				<address>1722 Steffens Seguin, TX 78155 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>My Father's Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1722 Steffens Seguin, TX 78155 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://myfathersfarm.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>7 am - 2 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-822-0200</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1722 Steffens Seguin, TX 78155 ‎
+Website: http://myfathersfarm.org/
+Days: Friday
+Times: 7 am - 2 pm
+Phone # or email: 830-822-0200]]></description>
+				<address>1722 Steffens Seguin, TX 78155 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Marburger Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.marburgerorchard.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>Seasonal Hours Vary (March-August). Appointments can be made during off-season</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-9433</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 559 Kuhlmann Rd Fredericksburg, TX 78624 ‎
+Website: http://www.marburgerorchard.com/
+Days: Sunday
+Times: Seasonal Hours Vary (March-August). Appointments can be made during off-season
+Phone # or email: 830-997-9433]]></description>
+				<address>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Marburger Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.marburgerorchard.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>Seasonal Hours Vary (March-August). Appointments can be made during off-season</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-9433</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 559 Kuhlmann Rd Fredericksburg, TX 78624 ‎
+Website: http://www.marburgerorchard.com/
+Days: Monday
+Times: Seasonal Hours Vary (March-August). Appointments can be made during off-season
+Phone # or email: 830-997-9433]]></description>
+				<address>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Marburger Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.marburgerorchard.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>Seasonal Hours Vary (March-August). Appointments can be made during off-season</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-9433</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 559 Kuhlmann Rd Fredericksburg, TX 78624 ‎
+Website: http://www.marburgerorchard.com/
+Days: Tuesday
+Times: Seasonal Hours Vary (March-August). Appointments can be made during off-season
+Phone # or email: 830-997-9433]]></description>
+				<address>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Marburger Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.marburgerorchard.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>Seasonal Hours Vary (March-August). Appointments can be made during off-season</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-9433</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 559 Kuhlmann Rd Fredericksburg, TX 78624 ‎
+Website: http://www.marburgerorchard.com/
+Days: Wednesday
+Times: Seasonal Hours Vary (March-August). Appointments can be made during off-season
+Phone # or email: 830-997-9433]]></description>
+				<address>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Marburger Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.marburgerorchard.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>Seasonal Hours Vary (March-August). Appointments can be made during off-season</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-9433</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 559 Kuhlmann Rd Fredericksburg, TX 78624 ‎
+Website: http://www.marburgerorchard.com/
+Days: Thursday
+Times: Seasonal Hours Vary (March-August). Appointments can be made during off-season
+Phone # or email: 830-997-9433]]></description>
+				<address>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Marburger Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.marburgerorchard.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>Seasonal Hours Vary (March-August). Appointments can be made during off-season</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-9433</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 559 Kuhlmann Rd Fredericksburg, TX 78624 ‎
+Website: http://www.marburgerorchard.com/
+Days: Friday
+Times: Seasonal Hours Vary (March-August). Appointments can be made during off-season
+Phone # or email: 830-997-9433]]></description>
+				<address>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Marburger Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.marburgerorchard.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>Seasonal Hours Vary (March-August). Appointments can be made during off-season</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-9433</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 559 Kuhlmann Rd Fredericksburg, TX 78624 ‎
+Website: http://www.marburgerorchard.com/
+Days: Saturday
+Times: Seasonal Hours Vary (March-August). Appointments can be made during off-season
+Phone # or email: 830-997-9433]]></description>
+				<address>559 Kuhlmann Rd Fredericksburg, TX 78624 ‎</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>McCall Creek Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.142884,-98.398910</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.mccallcreekfarms.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-0442</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.142884,-98.398910
+Website: http://www.mccallcreekfarms.com/
+Days: Wednesday
+Times: 9 am - 6 pm
+Phone # or email: 830-833-0442]]></description>
+				<address>30.142884,-98.398910</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>McCall Creek Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.142884,-98.398910</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.mccallcreekfarms.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-0442</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.142884,-98.398910
+Website: http://www.mccallcreekfarms.com/
+Days: Thursday
+Times: 9 am - 6 pm
+Phone # or email: 830-833-0442]]></description>
+				<address>30.142884,-98.398910</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>McCall Creek Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.142884,-98.398910</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.mccallcreekfarms.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-0442</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.142884,-98.398910
+Website: http://www.mccallcreekfarms.com/
+Days: Friday
+Times: 9 am - 6 pm
+Phone # or email: 830-833-0442]]></description>
+				<address>30.142884,-98.398910</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>McCall Creek Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.142884,-98.398910</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.mccallcreekfarms.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-833-0442</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.142884,-98.398910
+Website: http://www.mccallcreekfarms.com/
+Days: Saturday
+Times: 9 am - 6 pm
+Phone # or email: 830-833-0442]]></description>
+				<address>30.142884,-98.398910</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Natural Springs Garden</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>15202 Kinsey Court  Austin, Texas 78734</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.naturalspringsgarden.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-619-5203</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 15202 Kinsey Court  Austin, Texas 78734
+Website: http://www.naturalspringsgarden.com/
+Days: Tuesday
+Times: 10 am - 6 pm
+Phone # or email: 512-619-5203]]></description>
+				<address>15202 Kinsey Court  Austin, Texas 78734</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Natural Springs Garden</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>15202 Kinsey Court  Austin, Texas 78734</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.naturalspringsgarden.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 6 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-619-5203</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 15202 Kinsey Court  Austin, Texas 78734
+Website: http://www.naturalspringsgarden.com/
+Days: Friday
+Times: 10 am - 6 pm
+Phone # or email: 512-619-5203]]></description>
+				<address>15202 Kinsey Court  Austin, Texas 78734</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Pedernales Valley Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1609 E Main St, Fredericksburg, TX</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/pedernales/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm (Memorial Day - mid-September)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-1982</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1609 E Main St, Fredericksburg, TX
+Website: http://www.texaspeaches.com/pedernales/Default.htm
+Days: Sunday
+Times: 8 am - 6 pm (Memorial Day - mid-September)
+Phone # or email: 830-997-1982]]></description>
+				<address>1609 E Main St, Fredericksburg, TX</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Pedernales Valley Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1609 E Main St, Fredericksburg, TX</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/pedernales/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm (Memorial Day - mid-September)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-1982</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1609 E Main St, Fredericksburg, TX
+Website: http://www.texaspeaches.com/pedernales/Default.htm
+Days: Monday
+Times: 8 am - 6 pm (Memorial Day - mid-September)
+Phone # or email: 830-997-1982]]></description>
+				<address>1609 E Main St, Fredericksburg, TX</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Pedernales Valley Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1609 E Main St, Fredericksburg, TX</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/pedernales/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm (Memorial Day - mid-September)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-1982</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1609 E Main St, Fredericksburg, TX
+Website: http://www.texaspeaches.com/pedernales/Default.htm
+Days: Tuesday
+Times: 8 am - 6 pm (Memorial Day - mid-September)
+Phone # or email: 830-997-1982]]></description>
+				<address>1609 E Main St, Fredericksburg, TX</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Pedernales Valley Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1609 E Main St, Fredericksburg, TX</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/pedernales/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm (Memorial Day - mid-September)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-1982</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1609 E Main St, Fredericksburg, TX
+Website: http://www.texaspeaches.com/pedernales/Default.htm
+Days: Wednesday
+Times: 8 am - 6 pm (Memorial Day - mid-September)
+Phone # or email: 830-997-1982]]></description>
+				<address>1609 E Main St, Fredericksburg, TX</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Pedernales Valley Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1609 E Main St, Fredericksburg, TX</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/pedernales/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm (Memorial Day - mid-September)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-1982</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1609 E Main St, Fredericksburg, TX
+Website: http://www.texaspeaches.com/pedernales/Default.htm
+Days: Thursday
+Times: 8 am - 6 pm (Memorial Day - mid-September)
+Phone # or email: 830-997-1982]]></description>
+				<address>1609 E Main St, Fredericksburg, TX</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Pedernales Valley Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1609 E Main St, Fredericksburg, TX</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/pedernales/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm (Memorial Day - mid-September)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-1982</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1609 E Main St, Fredericksburg, TX
+Website: http://www.texaspeaches.com/pedernales/Default.htm
+Days: Friday
+Times: 8 am - 6 pm (Memorial Day - mid-September)
+Phone # or email: 830-997-1982]]></description>
+				<address>1609 E Main St, Fredericksburg, TX</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Pedernales Valley Farms</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1609 E Main St, Fredericksburg, TX</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/pedernales/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8 am - 6 pm (Memorial Day - mid-September)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-997-1982</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1609 E Main St, Fredericksburg, TX
+Website: http://www.texaspeaches.com/pedernales/Default.htm
+Days: Saturday
+Times: 8 am - 6 pm (Memorial Day - mid-September)
+Phone # or email: 830-997-1982]]></description>
+				<address>1609 E Main St, Fredericksburg, TX</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Springdale Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>755 Springdale Rd Austin, TX 78702</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.springdalefarmaustin.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 1 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-386-8899</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 755 Springdale Rd Austin, TX 78702
+Website: http://www.springdalefarmaustin.com/
+Days: Wednesday
+Times: 9 am - 1 pm
+Phone # or email: 512-386-8899]]></description>
+				<address>755 Springdale Rd Austin, TX 78702</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Springdale Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>755 Springdale Rd Austin, TX 78702</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.springdalefarmaustin.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 1 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-386-8899</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 755 Springdale Rd Austin, TX 78702
+Website: http://www.springdalefarmaustin.com/
+Days: Saturday
+Times: 9 am - 1 pm
+Phone # or email: 512-386-8899]]></description>
+				<address>755 Springdale Rd Austin, TX 78702</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Star Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.66717,-96.97296</value>
+					</Data>
+					<Data name='Website'>
+						<value>https://www.facebook.com/Star.Farmers.Market</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 3 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>832-401-4328</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.66717,-96.97296
+Website: https://www.facebook.com/Star.Farmers.Market
+Days: Monday
+Times: 10 am - 3 pm
+Phone # or email: 832-401-4328]]></description>
+				<address>30.66717,-96.97296</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Star Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.66717,-96.97296</value>
+					</Data>
+					<Data name='Website'>
+						<value>https://www.facebook.com/Star.Farmers.Market</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 3 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>832-401-4328</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.66717,-96.97296
+Website: https://www.facebook.com/Star.Farmers.Market
+Days: Wednesday
+Times: 10 am - 3 pm
+Phone # or email: 832-401-4328]]></description>
+				<address>30.66717,-96.97296</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Star Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.66717,-96.97296</value>
+					</Data>
+					<Data name='Website'>
+						<value>https://www.facebook.com/Star.Farmers.Market</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 3 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>832-401-4328</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.66717,-96.97296
+Website: https://www.facebook.com/Star.Farmers.Market
+Days: Thursday
+Times: 10 am - 3 pm
+Phone # or email: 832-401-4328]]></description>
+				<address>30.66717,-96.97296</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Star Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.66717,-96.97296</value>
+					</Data>
+					<Data name='Website'>
+						<value>https://www.facebook.com/Star.Farmers.Market</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10 am - 3 pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>832-401-4328</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.66717,-96.97296
+Website: https://www.facebook.com/Star.Farmers.Market
+Days: Friday
+Times: 10 am - 3 pm
+Phone # or email: 832-401-4328]]></description>
+				<address>30.66717,-96.97296</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Studebaker Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>9405 Hwy 290 East Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/studebaker/default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm (Summer); 9 am - 6 pm (Spring and Fall)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-990-1109</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 9405 Hwy 290 East Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/studebaker/default.htm
+Days: Sunday
+Times: 8:30 am - 7 pm (Summer); 9 am - 6 pm (Spring and Fall)
+Phone # or email: 830-990-1109]]></description>
+				<address>9405 Hwy 290 East Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Studebaker Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>9405 Hwy 290 East Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/studebaker/default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm (Summer only)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-990-1109</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 9405 Hwy 290 East Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/studebaker/default.htm
+Days: Monday
+Times: 8:30 am - 7 pm (Summer only)
+Phone # or email: 830-990-1109]]></description>
+				<address>9405 Hwy 290 East Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Studebaker Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>9405 Hwy 290 East Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/studebaker/default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm (Summer only)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-990-1109</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 9405 Hwy 290 East Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/studebaker/default.htm
+Days: Tuesday
+Times: 8:30 am - 7 pm (Summer only)
+Phone # or email: 830-990-1109]]></description>
+				<address>9405 Hwy 290 East Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Studebaker Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>9405 Hwy 290 East Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/studebaker/default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm (Summer only)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-990-1109</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 9405 Hwy 290 East Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/studebaker/default.htm
+Days: Wednesday
+Times: 8:30 am - 7 pm (Summer only)
+Phone # or email: 830-990-1109]]></description>
+				<address>9405 Hwy 290 East Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Studebaker Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>9405 Hwy 290 East Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/studebaker/default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm (Summer only)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-990-1109</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 9405 Hwy 290 East Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/studebaker/default.htm
+Days: Thursday
+Times: 8:30 am - 7 pm (Summer only)
+Phone # or email: 830-990-1109]]></description>
+				<address>9405 Hwy 290 East Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Studebaker Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>9405 Hwy 290 East Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/studebaker/default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm (Summer); 9 am - 6 pm (Spring and Fall)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-990-1109</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 9405 Hwy 290 East Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/studebaker/default.htm
+Days: Friday
+Times: 8:30 am - 7 pm (Summer); 9 am - 6 pm (Spring and Fall)
+Phone # or email: 830-990-1109]]></description>
+				<address>9405 Hwy 290 East Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Studebaker Farm</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>9405 Hwy 290 East Fredericksburg, Texas 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/studebaker/default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8:30 am - 7 pm (Summer); 9 am - 6 pm (Spring and Fall)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-990-1109</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 9405 Hwy 290 East Fredericksburg, Texas 78624
+Website: http://www.texaspeaches.com/studebaker/default.htm
+Days: Saturday
+Times: 8:30 am - 7 pm (Summer); 9 am - 6 pm (Spring and Fall)
+Phone # or email: 830-990-1109]]></description>
+				<address>9405 Hwy 290 East Fredericksburg, Texas 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Vogel Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>12862 U.S. 290 Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/vogel/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>12 pm - 5:30 pm (Seasonal hours vary, check website to verify)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-644-2404</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 12862 U.S. 290 Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/vogel/Default.htm
+Days: Sunday
+Times: 12 pm - 5:30 pm (Seasonal hours vary, check website to verify)
+Phone # or email: 830-644-2404]]></description>
+				<address>12862 U.S. 290 Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Vogel Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>12862 U.S. 290 Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/vogel/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (Seasonal hours vary, check website to verify)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-644-2404</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 12862 U.S. 290 Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/vogel/Default.htm
+Days: Monday
+Times: 9 am - 5 pm (Seasonal hours vary, check website to verify)
+Phone # or email: 830-644-2404]]></description>
+				<address>12862 U.S. 290 Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Vogel Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>12862 U.S. 290 Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/vogel/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (Seasonal hours vary, check website to verify)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-644-2404</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 12862 U.S. 290 Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/vogel/Default.htm
+Days: Friday
+Times: 9 am - 5 pm (Seasonal hours vary, check website to verify)
+Phone # or email: 830-644-2404]]></description>
+				<address>12862 U.S. 290 Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Vogel Orchard</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>12862 U.S. 290 Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.texaspeaches.com/vogel/Default.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9 am - 5 pm (Seasonal hours vary, check website to verify)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>830-644-2404</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 12862 U.S. 290 Fredericksburg, TX 78624
+Website: http://www.texaspeaches.com/vogel/Default.htm
+Days: Saturday
+Times: 9 am - 5 pm (Seasonal hours vary, check website to verify)
+Phone # or email: 830-644-2404]]></description>
+				<address>12862 U.S. 290 Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Hutto Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>U.S. 79 &amp; Short StHutto, TX 78634</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.huttotx.gov/index.aspx?NID=273</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10am–1pm (May–June)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: U.S. 79 & Short StHutto, TX 78634
+Website: http://www.huttotx.gov/index.aspx?NID=273
+Days: Saturday
+Times: 10am–1pm (May–June)
+Phone # or email: ]]></description>
+				<address>U.S. 79 &amp; Short StHutto, TX 78634</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Barton Creek Farmers Market at Barton Creek Mall</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>2901 S Capital of Texas Hwy Austin, TX 78746</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bartoncreekfarmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 2901 S Capital of Texas Hwy Austin, TX 78746
+Website: http://www.bartoncreekfarmersmarket.org/
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>2901 S Capital of Texas Hwy Austin, TX 78746</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Barton Creek Farmers Market on S. Lamar</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>2323 S. Lamar Blvd, Austin, TX 78704</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bartoncreekfarmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10am–2pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 2323 S. Lamar Blvd, Austin, TX 78704
+Website: http://www.bartoncreekfarmersmarket.org/
+Days: Sunday
+Times: 10am–2pm
+Phone # or email: ]]></description>
+				<address>2323 S. Lamar Blvd, Austin, TX 78704</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Bastrop 1832 Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1302 Chestnut St Bastrop, TX 78602</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bastrop1832farmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>2pm–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1302 Chestnut St Bastrop, TX 78602
+Website: http://www.bastrop1832farmersmarket.org/
+Days: Tuesday
+Times: 2pm–6pm
+Phone # or email: ]]></description>
+				<address>1302 Chestnut St Bastrop, TX 78602</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Bastrop 1832 Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1302 Chestnut St Bastrop, TX 78602</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bastrop1832farmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10am–2pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1302 Chestnut St Bastrop, TX 78602
+Website: http://www.bastrop1832farmersmarket.org/
+Days: Saturday
+Times: 10am–2pm
+Phone # or email: ]]></description>
+				<address>1302 Chestnut St Bastrop, TX 78602</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Bastrop Producers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>977 Highway 71 W, Bastrop, TX 78602</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bastropproducersmkt.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>11am–7pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 977 Highway 71 W, Bastrop, TX 78602
+Website: http://www.bastropproducersmkt.com/
+Days: Tuesday
+Times: 11am–7pm
+Phone # or email: ]]></description>
+				<address>977 Highway 71 W, Bastrop, TX 78602</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Bastrop Producers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>977 Highway 71 W, Bastrop, TX 78602</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bastropproducersmkt.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>11am–7pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 977 Highway 71 W, Bastrop, TX 78602
+Website: http://www.bastropproducersmkt.com/
+Days: Wednesday
+Times: 11am–7pm
+Phone # or email: ]]></description>
+				<address>977 Highway 71 W, Bastrop, TX 78602</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Bastrop Producers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>977 Highway 71 W, Bastrop, TX 78602</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bastropproducersmkt.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>11am–7pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 977 Highway 71 W, Bastrop, TX 78602
+Website: http://www.bastropproducersmkt.com/
+Days: Thursday
+Times: 11am–7pm
+Phone # or email: ]]></description>
+				<address>977 Highway 71 W, Bastrop, TX 78602</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Bastrop Producers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>977 Highway 71 W, Bastrop, TX 78602</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bastropproducersmkt.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>11am–7pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 977 Highway 71 W, Bastrop, TX 78602
+Website: http://www.bastropproducersmkt.com/
+Days: Friday
+Times: 11am–7pm
+Phone # or email: ]]></description>
+				<address>977 Highway 71 W, Bastrop, TX 78602</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Bastrop Producers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>977 Highway 71 W, Bastrop, TX 78602</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bastropproducersmkt.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 977 Highway 71 W, Bastrop, TX 78602
+Website: http://www.bastropproducersmkt.com/
+Days: Saturday
+Times: 9am–6pm
+Phone # or email: ]]></description>
+				<address>977 Highway 71 W, Bastrop, TX 78602</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Bastrop Producers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>977 Highway 71 W, Bastrop, TX 78602</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.bastropproducersmkt.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>12pm–5pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 977 Highway 71 W, Bastrop, TX 78602
+Website: http://www.bastropproducersmkt.com/
+Days: Sunday
+Times: 12pm–5pm
+Phone # or email: ]]></description>
+				<address>977 Highway 71 W, Bastrop, TX 78602</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Brazos Valley Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>N Texas Ave &amp; E William J Bryan Pkwy, Bryan, TX 77803</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://brazosvalleyfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8am–12pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: N Texas Ave & E William J Bryan Pkwy, Bryan, TX 77803
+Website: http://brazosvalleyfarmersmarket.com/
+Days: Saturday
+Times: 8am–12pm
+Phone # or email: ]]></description>
+				<address>N Texas Ave &amp; E William J Bryan Pkwy, Bryan, TX 77803</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Brazos Valley Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>E 29th St &amp; Briarcrest Dr Bryan, TX 77802</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://brazosvalleyfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>4pm–7pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: E 29th St & Briarcrest Dr Bryan, TX 77802
+Website: http://brazosvalleyfarmersmarket.com/
+Days: Wednesday
+Times: 4pm–7pm
+Phone # or email: ]]></description>
+				<address>E 29th St &amp; Briarcrest Dr Bryan, TX 77802</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Downtown Buda Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>121 S Main St‎, Buda, TX 78610</value>
+					</Data>
+					<Data name='Website'>
+						<value>Unconfirmed</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–12pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 121 S Main St‎, Buda, TX 78610
+Website: Unconfirmed
+Days: Saturday
+Times: 9am–12pm
+Phone # or email: ]]></description>
+				<address>121 S Main St‎, Buda, TX 78610</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Burnet Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>211 E Jackson St Burnet, TX 78611</value>
+					</Data>
+					<Data name='Website'>
+						<value>512-756-8380</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm, May–October</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 211 E Jackson St Burnet, TX 78611
+Website: 512-756-8380
+Days: Saturday
+Times: 9am–1pm, May–October
+Phone # or email: ]]></description>
+				<address>211 E Jackson St Burnet, TX 78611</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Cedar Park Farms to Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>11200 Lakeline Mall Dr‎, Cedar Park, TX 78613</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://texasfarmersmarket.org/market-near-you/cedar-park-farmers-market/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 11200 Lakeline Mall Dr‎, Cedar Park, TX 78613
+Website: http://texasfarmersmarket.org/market-near-you/cedar-park-farmers-market/
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>11200 Lakeline Mall Dr‎, Cedar Park, TX 78613</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Cove Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1506 Veterans Ave Copperas Cove, TX 76522</value>
+					</Data>
+					<Data name='Website'>
+						<value>512-547-0037</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1506 Veterans Ave Copperas Cove, TX 76522
+Website: 512-547-0037
+Days: Monday
+Times: 3pm–6pm
+Phone # or email: ]]></description>
+				<address>1506 Veterans Ave Copperas Cove, TX 76522</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Cove Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1506 Veterans Ave Copperas Cove, TX 76522</value>
+					</Data>
+					<Data name='Website'>
+						<value>512-547-0037</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10am–2pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1506 Veterans Ave Copperas Cove, TX 76522
+Website: 512-547-0037
+Days: Saturday
+Times: 10am–2pm
+Phone # or email: ]]></description>
+				<address>1506 Veterans Ave Copperas Cove, TX 76522</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Dripping Springs Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>30.191564, -98.087497</value>
+					</Data>
+					<Data name='Website'>
+						<value>https://www.facebook.com/pages/Dripping-Springs-Farmers-Market-Official/101705189910594</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-858-4725</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 30.191564, -98.087497
+Website: https://www.facebook.com/pages/Dripping-Springs-Farmers-Market-Official/101705189910594
+Days: Wednesday
+Times: 3pm–6pm
+Phone # or email: 512-858-4725]]></description>
+				<Point>
+					<coordinates>-98.087497,30.191564,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Fredericksburg Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>W Austin St &amp; N Crockett St, Fredericksburg, TX 78624</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://fredericksburgfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>4pm-7pm, May–August, closed July 4</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: W Austin St & N Crockett St, Fredericksburg, TX 78624
+Website: http://fredericksburgfarmersmarket.com/
+Days: Thursday
+Times: 4pm-7pm, May–August, closed July 4
+Phone # or email: ]]></description>
+				<address>W Austin St &amp; N Crockett St, Fredericksburg, TX 78624</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Sun City Farmers Market in Georgetown</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>2 Texas DrGeorgetown, TX 78633</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.gtfma.com/Welcome.html</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–12pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 2 Texas DrGeorgetown, TX 78633
+Website: http://www.gtfma.com/Welcome.html
+Days: Tuesday
+Times: 9am–12pm
+Phone # or email: ]]></description>
+				<address>2 Texas DrGeorgetown, TX 78633</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Georgetown Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>1525 W University Ave Georgetown, TX 78628</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.gtfma.com/Welcome.html</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3:30pm–6:30pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 1525 W University Ave Georgetown, TX 78628
+Website: http://www.gtfma.com/Welcome.html
+Days: Thursday
+Times: 3:30pm–6:30pm
+Phone # or email: ]]></description>
+				<address>1525 W University Ave Georgetown, TX 78628</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Round Rock Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>300 University Blvd Round Rock, TX 78665</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.gtfma.com/Welcome.html</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–12pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 300 University Blvd Round Rock, TX 78665
+Website: http://www.gtfma.com/Welcome.html
+Days: Saturday
+Times: 9am–12pm
+Phone # or email: ]]></description>
+				<address>300 University Blvd Round Rock, TX 78665</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Hye Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>10261 U.S. 290, Johnson City, TX</value>
+					</Data>
+					<Data name='Website'>
+						<value>https://www.facebook.com/pages/Hye-Farmers-Market/496914340368034</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>1pm–5pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 10261 U.S. 290, Johnson City, TX
+Website: https://www.facebook.com/pages/Hye-Farmers-Market/496914340368034
+Days: Saturday
+Times: 1pm–5pm
+Phone # or email: ]]></description>
+				<Point>
+					<coordinates>-98.5568138086914,30.24483491158115,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>HOMEsweetFARM's Market Day</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>306 S Baylor St Brenham, TX 77833</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.homesweetfarm.com/hsf_market_days.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>11am–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 306 S Baylor St Brenham, TX 77833
+Website: http://www.homesweetfarm.com/hsf_market_days.htm
+Days: Wednesday
+Times: 11am–6pm
+Phone # or email: ]]></description>
+				<address>306 S Baylor St Brenham, TX 77833</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>HOMEsweetFARM's Market Day</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>306 S Baylor St Brenham, TX 77833</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.homesweetfarm.com/hsf_market_days.htm</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>11am–4pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 306 S Baylor St Brenham, TX 77833
+Website: http://www.homesweetfarm.com/hsf_market_days.htm
+Days: Sunday
+Times: 11am–4pm
+Phone # or email: ]]></description>
+				<address>306 S Baylor St Brenham, TX 77833</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>HOPE Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>E 5th St &amp; Comal StAustin, TX 78702</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://hopefarmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>11am–3pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: E 5th St & Comal StAustin, TX 78702
+Website: http://hopefarmersmarket.org/
+Days: Sunday
+Times: 11am–3pm
+Phone # or email: ]]></description>
+				<address>E 5th St &amp; Comal StAustin, TX 78702</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Green Avenue Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>717 N 2nd St ‎Killeen, TX 76541</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.greenavemarket.com/gallery/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 717 N 2nd St ‎Killeen, TX 76541
+Website: http://www.greenavemarket.com/gallery/
+Days: Tuesday
+Times: 3pm–6pm
+Phone # or email: ]]></description>
+				<address>717 N 2nd St ‎Killeen, TX 76541</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Green Avenue Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>717 N 2nd St ‎Killeen, TX 76541</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.greenavemarket.com/gallery/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 717 N 2nd St ‎Killeen, TX 76541
+Website: http://www.greenavemarket.com/gallery/
+Days: Friday
+Times: 3pm–6pm
+Phone # or email: ]]></description>
+				<address>717 N 2nd St ‎Killeen, TX 76541</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Green Avenue Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>717 N 2nd St ‎Killeen, TX 76541</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.greenavemarket.com/gallery/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 717 N 2nd St ‎Killeen, TX 76541
+Website: http://www.greenavemarket.com/gallery/
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>717 N 2nd St ‎Killeen, TX 76541</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Lockhart Main Street Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>217 S Main St‎ Lockhart, TX 78644</value>
+					</Data>
+					<Data name='Website'>
+						<value>https://www.facebook.com/MainStreetMarketLockhart</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 217 S Main St‎ Lockhart, TX 78644
+Website: https://www.facebook.com/MainStreetMarketLockhart
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>217 S Main St‎ Lockhart, TX 78644</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Lone Star Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>12611 Shops Pkwy #100, Bee Cave, TX 78738</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.lonestarfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10am–2pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 12611 Shops Pkwy #100, Bee Cave, TX 78738
+Website: http://www.lonestarfarmersmarket.com/
+Days: Sunday
+Times: 10am–2pm
+Phone # or email: ]]></description>
+				<address>12611 Shops Pkwy #100, Bee Cave, TX 78738</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Mueller Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4550 Mueller Blvd, Austin, TX 78723</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://texasfarmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>10am–2pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 4550 Mueller Blvd, Austin, TX 78723
+Website: http://texasfarmersmarket.org/
+Days: Sunday
+Times: 10am–2pm
+Phone # or email: ]]></description>
+				<address>4550 Mueller Blvd, Austin, TX 78723</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>New Braunfels Farm to Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>148 S Castell Ave‎ TX 78130</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.nbfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 148 S Castell Ave‎ TX 78130
+Website: http://www.nbfarmersmarket.com/
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>148 S Castell Ave‎ TX 78130</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>Pearl Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>312 Pearl Pkwy TX 78215</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.pearlfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 312 Pearl Pkwy TX 78215
+Website: http://www.pearlfarmersmarket.com/
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>312 Pearl Pkwy TX 78215</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Pflugerville Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>901 Old Austin Hutto Rd TX 78660</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://tx-pflugerville3.civicplus.com/index.aspx?nid=1412</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–7pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 901 Old Austin Hutto Rd TX 78660
+Website: http://tx-pflugerville3.civicplus.com/index.aspx?nid=1412
+Days: Tuesday
+Times: 3pm–7pm
+Phone # or email: ]]></description>
+				<address>901 Old Austin Hutto Rd TX 78660</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-93D7E8</styleUrl>
+				<name>Quarry Farmers &amp; Ranchers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>255 E Basse Rd TX 78209</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://quarryfarmersmarket.com/about/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Sunday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 255 E Basse Rd TX 78209
+Website: http://quarryfarmersmarket.com/about/
+Days: Sunday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>255 E Basse Rd TX 78209</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>River Valley Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>109 Depot St TX 78621</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.rivervalleyfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 109 Depot St TX 78621
+Website: http://www.rivervalleyfarmersmarket.com/
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>109 Depot St TX 78621</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>San Marcos Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>155 E San Antonio St‎, San Marcos, TX 78666</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.sanmarcosfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 155 E San Antonio St‎, San Marcos, TX 78666
+Website: http://www.sanmarcosfarmersmarket.com/
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>155 E San Antonio St‎, San Marcos, TX 78666</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>San Marcos Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>204 S Edward Gary St San Marcos, TX 78666</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.sanmarcosfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 204 S Edward Gary St San Marcos, TX 78666
+Website: http://www.sanmarcosfarmersmarket.com/
+Days: Tuesday
+Times: 3pm–6pm
+Phone # or email: ]]></description>
+				<address>204 S Edward Gary St San Marcos, TX 78666</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Good Earth Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>10820 E Crystal Falls Pkwy Leander, TX 78641</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.goodearthfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8am–12:30pm, 2pm–5pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-259-4122</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 10820 E Crystal Falls Pkwy Leander, TX 78641
+Website: http://www.goodearthfarmersmarket.com/
+Days: Monday
+Times: 8am–12:30pm, 2pm–5pm
+Phone # or email: 512-259-4122]]></description>
+				<address>10820 E Crystal Falls Pkwy Leander, TX 78641</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>Good Earth Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>10820 E Crystal Falls Pkwy Leander, TX 78641</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.goodearthfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8am–12:30pm, 2pm–5pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-259-4122</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 10820 E Crystal Falls Pkwy Leander, TX 78641
+Website: http://www.goodearthfarmersmarket.com/
+Days: Tuesday
+Times: 8am–12:30pm, 2pm–5pm
+Phone # or email: 512-259-4122]]></description>
+				<address>10820 E Crystal Falls Pkwy Leander, TX 78641</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Good Earth Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>10820 E Crystal Falls Pkwy Leander, TX 78641</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.goodearthfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8am–12:30pm, 2pm–5pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-259-4122</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 10820 E Crystal Falls Pkwy Leander, TX 78641
+Website: http://www.goodearthfarmersmarket.com/
+Days: Wednesday
+Times: 8am–12:30pm, 2pm–5pm
+Phone # or email: 512-259-4122]]></description>
+				<address>10820 E Crystal Falls Pkwy Leander, TX 78641</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>Good Earth Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>10820 E Crystal Falls Pkwy Leander, TX 78641</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.goodearthfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Thursday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8am–12:30pm, 2pm–5pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-259-4122</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 10820 E Crystal Falls Pkwy Leander, TX 78641
+Website: http://www.goodearthfarmersmarket.com/
+Days: Thursday
+Times: 8am–12:30pm, 2pm–5pm
+Phone # or email: 512-259-4122]]></description>
+				<address>10820 E Crystal Falls Pkwy Leander, TX 78641</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Good Earth Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>10820 E Crystal Falls Pkwy Leander, TX 78641</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.goodearthfarmersmarket.com/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>8am–12:30pm, 2pm–5pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value>512-259-4122</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 10820 E Crystal Falls Pkwy Leander, TX 78641
+Website: http://www.goodearthfarmersmarket.com/
+Days: Friday
+Times: 8am–12:30pm, 2pm–5pm
+Phone # or email: 512-259-4122]]></description>
+				<address>10820 E Crystal Falls Pkwy Leander, TX 78641</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Seguin Farmers Market &amp; Artisans Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>510 Fleming Dr Seguin, TX 78155</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.centraltexasgrowers.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 510 Fleming Dr Seguin, TX 78155
+Website: http://www.centraltexasgrowers.org/
+Days: Monday
+Times: 3pm–6pm
+Phone # or email: ]]></description>
+				<address>510 Fleming Dr Seguin, TX 78155</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>SFC Farmers' Market Downtown</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>422 Guadalupe St. Austin, TX 78701</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.sfcfarmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 422 Guadalupe St. Austin, TX 78701
+Website: http://www.sfcfarmersmarket.org/
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>422 Guadalupe St. Austin, TX 78701</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<name>SFC Farmers' Market at Sunset Valley</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>3200 Jones Rd Austin, TX</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.sfcfarmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Saturday</value>
+					</Data>
+					<Data name='Times'>
+						<value>9am–1pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 3200 Jones Rd Austin, TX
+Website: http://www.sfcfarmersmarket.org/
+Days: Saturday
+Times: 9am–1pm
+Phone # or email: ]]></description>
+				<address>3200 Jones Rd Austin, TX</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>SFC Farmers' Market at the Triangle</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>4600 N Lamar Blvd Austin, TX 78756</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.sfcfarmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–7pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 4600 N Lamar Blvd Austin, TX 78756
+Website: http://www.sfcfarmersmarket.org/
+Days: Wednesday
+Times: 3pm–7pm
+Phone # or email: ]]></description>
+				<address>4600 N Lamar Blvd Austin, TX 78756</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-A7B5D7</styleUrl>
+				<name>SFC Farmers' Market East</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>2835 E Martin Luther King Jr Blvd Austin, TX 78702</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.sfcfarmersmarket.org/</value>
+					</Data>
+					<Data name='Days'>
+						<value>Tuesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–7pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 2835 E Martin Luther King Jr Blvd Austin, TX 78702
+Website: http://www.sfcfarmersmarket.org/
+Days: Tuesday
+Times: 3pm–7pm
+Phone # or email: ]]></description>
+				<address>2835 E Martin Luther King Jr Blvd Austin, TX 78702</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>Taylor Farmer's Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>N Main St &amp; E 5th St Taylor, TX 76574</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.ci.taylor.tx.us/index.aspx?NID=621</value>
+					</Data>
+					<Data name='Days'>
+						<value>Monday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm (May–October)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: N Main St & E 5th St Taylor, TX 76574
+Website: http://www.ci.taylor.tx.us/index.aspx?NID=621
+Days: Monday
+Times: 3pm–6pm (May–October)
+Phone # or email: ]]></description>
+				<address>N Main St &amp; E 5th St Taylor, TX 76574</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Taylor Farmer's Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>N Main St &amp; E 5th St Taylor, TX 76574</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.ci.taylor.tx.us/index.aspx?NID=621</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm (May–October)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: N Main St & E 5th St Taylor, TX 76574
+Website: http://www.ci.taylor.tx.us/index.aspx?NID=621
+Days: Wednesday
+Times: 3pm–6pm (May–October)
+Phone # or email: ]]></description>
+				<address>N Main St &amp; E 5th St Taylor, TX 76574</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Taylor Farmer's Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>N Main St &amp; E 5th St Taylor, TX 76574</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.ci.taylor.tx.us/index.aspx?NID=621</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm (May–October)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: N Main St & E 5th St Taylor, TX 76574
+Website: http://www.ci.taylor.tx.us/index.aspx?NID=621
+Days: Friday
+Times: 3pm–6pm (May–October)
+Phone # or email: ]]></description>
+				<address>N Main St &amp; E 5th St Taylor, TX 76574</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B29189</styleUrl>
+				<name>Wimberley Farmers' Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>Ranch Road 12‎, Wimberley, TX 78676</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://visitwimberley.com/marketdays/wimFM.shtml</value>
+					</Data>
+					<Data name='Days'>
+						<value>Wednesday</value>
+					</Data>
+					<Data name='Times'>
+						<value>3pm–6pm</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: Ranch Road 12‎, Wimberley, TX 78676
+Website: http://visitwimberley.com/marketdays/wimFM.shtml
+Days: Wednesday
+Times: 3pm–6pm
+Phone # or email: ]]></description>
+				<address>Ranch Road 12‎, Wimberley, TX 78676</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>Martindale Farmers Market</name>
+				<ExtendedData>
+					<Data name='Address'>
+						<value>409 Main St
+Martindale, TX 78655</value>
+					</Data>
+					<Data name='Website'>
+						<value>http://www.martindalemarket.org</value>
+					</Data>
+					<Data name='Days'>
+						<value>Friday</value>
+					</Data>
+					<Data name='Times'>
+						<value>5–8 pm (First of the month only)</value>
+					</Data>
+					<Data name='Phone # or email'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[Address: 409 Main St
+Martindale, TX 78655
+Website: http://www.martindalemarket.org
+Days: Friday
+Times: 5–8 pm (First of the month only)
+Phone # or email: ]]></description>
+				<address>409 Main St
+Martindale, TX 78655</address>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+		</Folder>
+		<Style id='icon-503-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-9FC3FF'>
+			<IconStyle>
+				<color>ffFFC39F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-A61B4A'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-A7B5D7'>
+			<IconStyle>
+				<color>ffD7B5A7</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-B29189'>
+			<IconStyle>
+				<color>ff8991B2</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-FAD199'>
+			<IconStyle>
+				<color>ff99D1FA</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
