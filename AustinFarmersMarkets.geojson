@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Name": "Mueller Farmers Market", "Address": "2007 Mueller Central Dr, Austin, TX 78723", "Lat": 30.296825, "Long": -97.707474 }, "bbox": [ -105.98311731940122, 3.442099890161998, -105.98311731940122, 3.442099890161998 ], "geometry": { "type": "Point", "coordinates": [ -105.98311731940122, 3.442099890161998 ] } },
+{ "type": "Feature", "properties": { "Name": "The Gardeners Feast", "Address": "114 E Parsons Street, Manor, TX 78731", "Lat": 30.340676, "Long": -97.557115 }, "bbox": [ -105.98311723047873, 3.442100266736771, -105.98311723047873, 3.442100266736771 ], "geometry": { "type": "Point", "coordinates": [ -105.98311723047873, 3.442100266736771 ] } },
+{ "type": "Feature", "properties": { "Name": "SFC Farmers Market Downtown", "Address": "422 Guadalupe St, Austin, TX 78701", "Lat": 30.267405, "Long": -97.746928 }, "bbox": [ -105.98311738672803, 3.442099789101997, -105.98311738672803, 3.442099789101997 ], "geometry": { "type": "Point", "coordinates": [ -105.98311738672803, 3.442099789101997 ] } },
+{ "type": "Feature", "properties": { "Name": "HOPE Farmers Market", "Address": "412 Comal St, Austin, TX 78702", "Lat": 30.261929, "Long": -97.727242 }, "bbox": [ -105.98311740263404, 3.442099836998492, -105.98311740263404, 3.442099836998492 ], "geometry": { "type": "Point", "coordinates": [ -105.98311740263404, 3.442099836998492 ] } },
+{ "type": "Feature", "properties": { "Name": "SFC Farmers Market Sunset Valley", "Address": "3200 Jones Rd, Sunset Valley, TX 78745", "Lat": 30.229686, "Long": -97.808758 }, "bbox": [ -105.98311747164286, 3.442099631778773, -105.98311747164286, 3.442099631778773 ], "geometry": { "type": "Point", "coordinates": [ -105.98311747164286, 3.442099631778773 ] } },
+{ "type": "Feature", "properties": { "Name": "SFC Farmers Market The Triangle", "Address": "4600 Guadalupe St, Austin, TX 78751", "Lat": 30.314155, "Long": -97.732895 }, "bbox": [ -105.98311727366719, 3.442099829599097, -105.98311727366719, 3.442099829599097 ], "geometry": { "type": "Point", "coordinates": [ -105.98311727366719, 3.442099829599097 ] } }
+]
+}
